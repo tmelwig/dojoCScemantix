@@ -1,17 +1,5 @@
-certifi==2024.8.30
-charset-normalizer==3.4.0
-filelock==3.16.1
-fsspec==2024.9.0
-gensim==4.3.3
-huggingface-hub==0.25.2
-idna==3.10
-numpy==1.26.4
+cffi==1.17.1
+cryptography==43.0.1
 packaging==24.1
-PyYAML==6.0.2
-requests==2.32.3
-scipy==1.13.1
-smart-open==7.0.5
-tqdm==4.66.5
-typing_extensions==4.12.2
-urllib3==2.2.3
-wrapt==1.16.0
+pycparser==2.22
+wheel @ file:///opt/homebrew/Cellar/python%403.13/3.13.0_1/libexec/wheel-0.44.0-py3-none-any.whl#sha256=f49b82715dce6365f75eddcb0a9bb47d0d46feaf14bbc739dfcbd677b7073f5b
